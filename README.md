@@ -36,5 +36,5 @@ pyttsx3
 moviepy
 speech_recognition
 
-Installation
+Installation: 
 pip install openai pandas pyttsx3 moviepy SpeechRecognition
