@@ -1,8 +1,8 @@
-#YouTuberAI
+#YouTuberAI#
 
 YouTuberAI is a project aimed at assisting content creators by generating quotes, fun facts, and subtitled videos automatically using the power of artificial intelligence. This project leverages OpenAI's GPT-3.5 model to generate content based on user-provided topics.
 
-##Features
+##Features##
 
 1. Generate Quotes
 Function: generate_quotes(api_key, topic, num_quotes)
@@ -23,14 +23,14 @@ Description: This function generates a subtitled video by transcribing the audio
 Function: create_video(background_folder, audio_file, output_location)
 Description: This function creates a video by combining background videos with audio.
 
-##Usage
+##Usage##
 
 API Key Setup: Replace "YOUR_API_KEY" with your actual OpenAI API key.
 Topic Input: Enter the topic for which you want to generate quotes, fun facts, or videos.
 File Paths: Specify the necessary file paths for input and output files.
 Run the Functions: Run the respective functions based on your requirements.
 
-##Dependencies
+##Dependencies##
 
 openai
 pandas
@@ -38,5 +38,5 @@ pyttsx3
 moviepy
 speech_recognition
 
-##Installation: 
+##Installation: ##
 pip install openai pandas pyttsx3 moviepy SpeechRecognition
