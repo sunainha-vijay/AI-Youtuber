@@ -26,8 +26,11 @@ Description: This function creates a video by combining background videos with a
 ## Usage ##
 
 API Key Setup: Replace "YOUR_API_KEY" with your actual OpenAI API key.
+
 Topic Input: Enter the topic for which you want to generate quotes, fun facts, or videos.
+
 File Paths: Specify the necessary file paths for input and output files.
+
 Run the Functions: Run the respective functions based on your requirements.
 
 ## Dependencies ##
