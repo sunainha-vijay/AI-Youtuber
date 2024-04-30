@@ -23,6 +23,9 @@ Description: This function generates a subtitled video by transcribing the audio
 Function: create_video(background_folder, audio_file, output_location)
 Description: This function creates a video by combining background videos with audio.
 
+## Project Flow
+![image](https://github.com/sunainha-vijay/AI-Youtuber/assets/113001688/9cf2d1f3-2d30-4a5c-8948-e91e294b9053)
+
 ## Usage ##
 
 API Key Setup: Replace "YOUR_API_KEY" with your actual OpenAI API key.
